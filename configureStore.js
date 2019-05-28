@@ -2,7 +2,7 @@
 
 import thunk from 'redux-thunk';
 import { fetchMiddleware } from 'redux-recompose';
-import entityReducer from './lib/entityService'
+import entityReducer from './entityService';
 
 const rootReducer = combineReducers({
   entities: entityReducer,

@@ -1,5 +1,5 @@
 # anEntity
-Redux model/middleware generator
+Redux model/middleware generator built on redux-recompose
 
 An Entity is high level data model for Redux
 
